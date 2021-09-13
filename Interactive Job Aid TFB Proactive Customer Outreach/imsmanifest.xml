@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6SdcSaDbQKH_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Interactive Job Aid: TFB Proactive Customer Outreach</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Interactive_Job_Aid:_TFB_Proactive_Customer_Outreach_ORG">
+    <organization identifier="Interactive_Job_Aid:_TFB_Proactive_Customer_Outreach_ORG">
+      <title>Interactive Job Aid: TFB Proactive Customer Outreach</title>
+      <item identifier="Interactive_Job_Aid:_TFB_Proactive_Customer_Outreach_SCO" isvisible="true" identifierref="__6SdcSaDbQKH_course_id_RES">
+        <title>Interactive Job Aid: TFB Proactive Customer Outreach</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6SdcSaDbQKH_course_id_RES" type="webcontent" href="launcher.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6UhWbwm2Imz_DX2302_DY2302_CX1726_CY1144.jpg" />
+      <file href="mobile/5UjYQmiNzuh_P_-2550_-90_10180_5980_DX2710_DY2710_CX2032_CY1194.png" />
+      <file href="mobile/6hyjODrgLSo_DX2000_DY2000_CX1500_CY741.png" />
+      <file href="mobile/5YvKBzIXDla_DX1342_DY1342_CX979_CY1006.png" />
+      <file href="mobile/6jCPSFhaQS9_DX270_DY270_CX202_CY111.png" />
+      <file href="mobile/6bHxxcZXdc8_DX864_DY864_CX648_CY363.png" />
+      <file href="mobile/6lgNX5uBm72_DX550_DY550_CX367_CY412.png" />
+      <file href="mobile/5YoeN2uF4qg_DX132_DY132_CX55_CY74.png" />
+      <file href="mobile/5lFUetg7ABk_DX1232_DY1232_CX923_CY420.png" />
+      <file href="mobile/5qn3AoPz6yH_DX286_DY286_CX214_CY114.png" />
+      <file href="meta.xml" />
+      <file href="story_content/6iQac9YH9Oz.png" />
+      <file href="story_content/6BugbBfMZi6.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/Outbound Calling and Text Messaging Policy.pdf" />
+      <file href="story_content/external_files/Calling Hours and Holiday Restrictions Policy.pdf" />
+      <file href="mobile/Shape6i0TBMMA71Z.png" />
+      <file href="mobile/txt__default_6CudQXcEVp2.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5afz4mX7pOq.js" />
+      <file href="html5/data/js/5bSmjNoDApd.js" />
+      <file href="html5/data/js/5cx9iznQSU0.js" />
+      <file href="html5/data/js/5d6W4n5iiv3.js" />
+      <file href="html5/data/js/5dMiTsjS4gt.js" />
+      <file href="html5/data/js/5fqKgz8lV2j.js" />
+      <file href="html5/data/js/5gJAvwWtH5p.js" />
+      <file href="html5/data/js/5hI0KagxpRa.js" />
+      <file href="html5/data/js/5llog23VXpW.js" />
+      <file href="html5/data/js/5mw4qct0IO3.js" />
+      <file href="html5/data/js/5npYwdYv6C0.js" />
+      <file href="html5/data/js/5qaSHMHt6oE.js" />
+      <file href="html5/data/js/5qQFvy6BCRc.js" />
+      <file href="html5/data/js/5rfGnScd4QB.js" />
+      <file href="html5/data/js/5rjXUd8XHuU.js" />
+      <file href="html5/data/js/5ss7AN97hhc.js" />
+      <file href="html5/data/js/5tOzPwePAhq.js" />
+      <file href="html5/data/js/5wy80z7h31J.js" />
+      <file href="html5/data/js/5Yb5QdKw1JY.js" />
+      <file href="html5/data/js/5YNcmtGb7Zi.js" />
+      <file href="html5/data/js/63R1cZbGqI6.js" />
+      <file href="html5/data/js/68vJ2hWerfs.js" />
+      <file href="html5/data/js/6aQOpGEjvhW.js" />
+      <file href="html5/data/js/6B409Ef8CDg.js" />
+      <file href="html5/data/js/6BH0RLN0Am4.js" />
+      <file href="html5/data/js/6bOOW6PiCvB.js" />
+      <file href="html5/data/js/6BT74RI50fV.js" />
+      <file href="html5/data/js/6CeRQYRrtv5.js" />
+      <file href="html5/data/js/6DcWYe2nrKm.js" />
+      <file href="html5/data/js/6deWhyThQct.js" />
+      <file href="html5/data/js/6EkKaJ6WxyX.js" />
+      <file href="html5/data/js/6Fsu4ponX3p.js" />
+      <file href="html5/data/js/6g39Ve9RSbk.js" />
+      <file href="html5/data/js/6gu6hgSijH2.js" />
+      <file href="html5/data/js/6I8gqRbHmBW.js" />
+      <file href="html5/data/js/6IBjvpqfuGV.js" />
+      <file href="html5/data/js/6jOp6K53Xeg.js" />
+      <file href="html5/data/js/6liPY5GU38o.js" />
+      <file href="html5/data/js/6LZEEoZUrhE.js" />
+      <file href="html5/data/js/6mJbt8ig0Zm.js" />
+      <file href="html5/data/js/6oHoaOm7bQC.js" />
+      <file href="html5/data/js/6PFcXPuAlLb.js" />
+      <file href="html5/data/js/6PODUhQeErl.js" />
+      <file href="html5/data/js/6QkGQVIDLuU.js" />
+      <file href="html5/data/js/6SRbUqHo831.js" />
+      <file href="html5/data/js/6UYtILJy1vR.js" />
+      <file href="html5/data/js/6XzPyeMg1wA.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="launcher.html" />
+      <file href="story_content/external_window.png" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
